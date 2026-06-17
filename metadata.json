@@ -1,0 +1,6 @@
+{
+  "name": "ProDesign",
+  "description": "An advanced vector graphics editor with infinite canvas, drawing tools, layers management, transform engine, properties controls, undo/redo history, and speech commands.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
