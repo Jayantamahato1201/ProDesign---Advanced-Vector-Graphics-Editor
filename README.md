@@ -2,7 +2,7 @@
 
 A professional-grade vector graphics editor built with modern React technologies showcasing advanced frontend engineering practices.
 
-[ProDesign Screenshot](.github/screenshots/prodesign-preview.png)
+[ProDesign Screenshot](./screenshot/interface.png)
 
 ## Table of Contents
 - [Overview](#overview)
